@@ -59,7 +59,7 @@
 <ul>
 <li><a href="">Charles Proxy</a> – мокирование ответов и инспекция сети</li>
 <li><a href="">Bash</a> – скрипты для QA-задач</li>
-<li><a href="">Git</a> – базовые команды контроля версий</li>
+<li><a href="https://github.com/carap72/git">Git</a> – базовые команды контроля версий</li>
 
 </ul>
 
