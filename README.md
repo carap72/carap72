@@ -41,7 +41,7 @@
 
 <h3>🔗 Тестирование API</h3>
 <ul>
-<li><a href="">API Testing</a> – REST и SOAP через Postman</li>
+<li><a href="https://github.com/carap72/api_testing">API Testing</a> – REST и SOAP через Postman</li>
 </ul>
 
 <h3>🗄 Тестирование баз данных</h3>
