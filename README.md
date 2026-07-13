@@ -35,7 +35,7 @@
 <h2>📂 Тестовые артефакты</h2>
 <h3>🖥 Веб-тестирование</h3>
 <ul>
-<li><a href ="">Webshop Testing</a> – исследовательское и функциональное тестирование
+<li><a href ="https://github.com/carap72/web_testing">Webshop Testing</a> – исследовательское и функциональное тестирование
 <li>Инструменты: Chrome DevTools, Jira</li>
 </ul>
 
